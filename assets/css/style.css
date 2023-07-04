@@ -11,7 +11,7 @@ textarea {
   border-left: 1px solid black;
   padding: 10px;
 }
-
+/* classes used for displaying past/present/future information */
 .description {
   white-space: pre-wrap;
 }
@@ -44,7 +44,7 @@ textarea {
   background-color: #77dd77;
   color: white;
 }
-
+/* Save button and hover functionality */
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
