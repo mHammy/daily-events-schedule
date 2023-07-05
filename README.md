@@ -2,10 +2,10 @@
 
 ## Description
 
--This application is meant to assist in your daily meetings scheduling for work.
--It covers a 9-5 schedule.
--The meeting information is saved into localStorage.
--The time-blocks on the scheduler will inform you of hours past (grey), hour present (red), hours future (green).
+- This application is meant to assist in your daily meetings scheduling for work.
+- It covers a 9-5 schedule.
+- The meeting information is saved into localStorage.
+- The time-blocks on the scheduler will inform you of hours past (grey), hour present (red), hours future (green).
 
 
 ![Image of the full website application](./assets/images/Full-screenshot.png)
